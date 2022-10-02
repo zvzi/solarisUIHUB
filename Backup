@@ -1,5 +1,5 @@
 local Saquadogoowee = Instance.new("ScreenGui")
-Saquadogoowee.Name = "saquadogui (ui hub by solaris)"
+Saquadogoowee.Name = "saquadoguiBySolaris"
 Saquadogoowee.Parent = game.CoreGui
 Saquadogoowee.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
