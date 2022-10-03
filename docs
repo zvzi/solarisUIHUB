@@ -1,4 +1,4 @@
-local SolarisLib = loadstring(game:HttpGet("https://github.com/zvzi/solarisUIHUB/raw/main/Backup"))()
+local SolarisLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/zvzi/solarisUIHUB/main/Backup"))()
 
 --[[SolarisLib:New({
   Name - Title of the UI <string>
